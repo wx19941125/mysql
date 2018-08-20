@@ -1,15 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to mysql
 
-You can use the [editor on GitHub](https://github.com/wx19941125/mysql/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+  mysql安装、mysql操作数据库库、mysql操作数据表、mysql操作字段;
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+### mysql查询
+  
+  mysql数据(insert/update/delete);
+  mysql单表查询(带In查询、带between and查询、空值查询、排序查询、group by分组查询);
+  mysql多表查询(mysql连接查询[多表横向连接]、mysql合并查询[多表纵向合并]、mysql子查询[嵌套查询，得到单表]);
+  
+### mysql索引
+  
+  表的目录，方便快速查询； 提高查询效率;  
+  
+  mysql创建索引、mysql删除索引;
 
 # Header 1
 ## Header 2
