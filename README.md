@@ -4,9 +4,9 @@
 
 ### mysql查询
   
-     mysql数据(insert/update/delete);
-     mysql单表查询(带In查询、带between and查询、空值查询、排序查询、group by分组查询);
-     mysql多表查询(mysql连接查询[多表横向连接]、mysql合并查询[多表纵向合并]、mysql子查询[嵌套查询，
+          mysql数据(insert/update/delete);
+           mysql单表查询(带In查询、带between and查询、空值查询、排序查询、group by分组查询);
+          mysql多表查询(mysql连接查询[多表横向连接]、mysql合并查询[多表纵向合并]、mysql子查询[嵌套查询，
   得到单表]);
   
 ### mysql索引
