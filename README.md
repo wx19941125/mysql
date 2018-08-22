@@ -3,8 +3,8 @@ mysql安装、mysql操作数据库库、mysql操作数据表、mysql操作字段
 
 ### mysql查询
 mysql数据(insert/update/delete);  
-mysql单表查询(带In查询、带between and查询、空值查询、排序查询、group by分组查询);  
-mysql多表查询(mysql连接查询[多表横向连接]、mysql合并查询[多表纵向合并]、mysql子查询
+1、mysql单表查询(带In查询、带between and查询、空值查询、排序查询、group by分组查询);  
+2、mysql多表查询(mysql连接查询[多表横向连接]、mysql合并查询[多表纵向合并]、mysql子查询
 [嵌套查询，得到单表]);
   
 ### mysql索引
@@ -21,4 +21,8 @@ mysql多表查询(mysql连接查询[多表横向连接]、mysql合并查询[多�
  
 ### mysql存储过程(存储函数)
  预定义的一些sql集合;   避免重复编写相同sql，减少数据传输;    
- 1、mysql创建存储过程、mysql创建存储函数;(mysql存储过程变量、mysql存储过程游标、mysql存储过程流程控制)
+ 1、mysql创建存储过程、mysql创建存储函数;(mysql存储过程变量、mysql存储过程游标、mysql存储过程流程控制);   
+ 2、mysql调用存储过程、mysql查看存储过程、mysql删除存储过程;
+ 
+### mysql数据备份与还原
+ navicat图形工具备份与还原数据;
