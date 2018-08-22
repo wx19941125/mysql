@@ -25,4 +25,4 @@ mysql数据(insert/update/delete);
  2、mysql调用存储过程、mysql查看存储过程、mysql删除存储过程;
  
 ### mysql数据备份与还原
- navicat图形工具备份与还原数据;
+ 利用navicat图形工具备份与还原数据;
